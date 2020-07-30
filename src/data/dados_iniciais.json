@@ -1,183 +1,183 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Profissional",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#D72C2C",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Receitas e dicas de Chefs renomados",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Nova Receita: Molho de tomate da Paola #nossacozinha",
+          "url": "https://www.youtube.com/watch?v=lSr2fEMiAGU"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Arroz de Talo",
+          "url": "https://www.youtube.com/watch?v=ex8GdjnUhiU"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "O melhor Estrogonoffe",
+          "url": "https://www.youtube.com/watch?v=xfZ4NIcRO-c"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Massa de pizza fermentação natural",
+          "url": "https://www.youtube.com/watch?v=_GCLp4NsMYY"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Carne de sol e cuscuz de milho com feijão verde",
+          "url": "https://www.youtube.com/watch?v=Xl0MoLCXSYw"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Omelete da Paola",
+          "url": "https://www.youtube.com/watch?v=dmM_fCViyLE"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "O Fettuccine de Palmito Pupunha do D.O.M.",
+          "url": "https://www.youtube.com/watch?v=QosbH-hiHZY"
+        }       
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Seja Doce",
+      "cor": "#CA6526",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Vídeos para quem ama Confeitaria",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Bolo de Paçoca com Doce de Leite",
+          "url": "https://www.youtube.com/watch?v=aSv0c6vbb8g"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "MANUAL DO DONUTS PARA VENDER - Decorado e Recheado!",
+          "url": "https://www.youtube.com/watch?v=oM5HEEyUZ4I"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Bolo de Cenoura Fofinho!",
+          "url": "https://www.youtube.com/watch?v=e5x2eUl_CYQ"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "O MAIS COMPLETO TUTORIAL PARA MACARONS FRANCESES",
+          "url": "https://www.youtube.com/watch?v=dHtev8l2mWU"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Bolo tronco em chantininho de chocolate",
+          "url": "https://www.youtube.com/watch?v=z4mzuxJj414"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Para Impressionar",
+      "cor": "#FF5444",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Usando a criatividade",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "9 deliciosas receitas para um jantar romântico",
+          "url": "https://www.youtube.com/watch?v=9u43jAum9rA"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "RECEITAS FOFINHAS PARA CRIANÇAS",
+          "url": "https://www.youtube.com/watch?v=L5GxPs5z7rU"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "25 RECEITAS CRIATIVAS PARA PREPARAR REFEIÇÕES USUAIS DE FORMA EXTRAORDINÁRIA",
+          "url": "https://www.youtube.com/watch?v=2zS_hoTunfY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Tarte Tatin | Rendez-vous à Paris",
+          "url": "https://www.youtube.com/watch?v=nqMn5KsPVB0"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Sem Tempo",
+      "cor": "#E17B35",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Receitas rápidas para o dia-a-dia",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Panqueca americana super rápida e fácil",
+          "url": "https://www.youtube.com/watch?v=y1diZ4zsOZg"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Faça pizza em 15 minutos!",
+          "url": "https://www.youtube.com/watch?v=gq6SEjCNDTY"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Almôndegas De Carne Moída Simples e Rápida!",
+          "url": "https://www.youtube.com/watch?v=yJYbhiF0_OY"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Especial Jantar Romântico",
+          "url": "https://www.youtube.com/watch?v=Ez8JhR0EnSE&list=PLJI57DvVQT9Zud4c_Uq4CZKmX8ANGTPHY&index=4"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Comida Fit",
+      "cor": "#FF9F0C",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Receitas saudáveis",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "6 cafés da manhã rápidos e saudáveis",
+          "url": "https://www.youtube.com/watch?v=ttP1dHrzc20"
+        },
+        {
+          "titulo": "9 Receitas Fitness Fáceis com 3 Ingredientes",
+          "url": "https://www.youtube.com/watch?v=7D5hFhQK_Nk"
+        },
+        {
+          "titulo": "Lasanha de berinjela | Rita Lobo | Cozinha Prática",
+          "url": "https://www.youtube.com/watch?v=cyfExHvMvOY"
+        },
+        {
+          "titulo": "3 Deliciosas Opções para Substituir o Pão no Café da Manhã",
+          "url": "https://www.youtube.com/watch?v=i05Lc86S4YM"
+        },
+        {
+          "titulo": "Receitas Fit Saudáveis",
+          "url": "https://www.youtube.com/watch?v=YzNatqIPqGE"
+        }
+      ]
+    },
+    {
+      "titulo": "Reality Show",
+      "cor": "#FFC90C",
+      "link_extra": {
+        "text": "Top Chef e MasterChef Brasil",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Masterchef Brasil - Episódio 1",
+          "url": "https://www.youtube.com/watch?v=oGGamcs-_yg"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Masterchef Brasil - Episódio 2",
+          "url": "https://www.youtube.com/watch?v=4a7bOfTCmGk"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Assista à íntegra da estreia da segunda temporada de Top Chef Brasil ",
+          "url": "https://www.youtube.com/watch?v=pk-Y1YPrcBA"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Veja na íntegra o segundo episódio de Top Chef Brasil ",
+          "url": "https://www.youtube.com/watch?v=bwSC-mK12iU"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Masterchef - Especial de Natal",
+          "url": "https://www.youtube.com/watch?v=YCUmw77hqEc"
         }
       ]
     }
