@@ -1,13 +1,18 @@
 import React from 'react';
+import styled from 'styled-components';
 import Menu from '../../components/Menu'
 import dadosIniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
 
+const HomeWrapper = styled.div`
+  background: var(--grayDark);
+`
+
 function Home() {
   return (
-    <div style={{ background: "#141414"}}>
+    <HomeWrapper>
       <Menu />
 
       <BannerMain
@@ -44,7 +49,7 @@ function Home() {
       <Footer />
      
 
-    </div>
+    </HomeWrapper>
   );
 }
 

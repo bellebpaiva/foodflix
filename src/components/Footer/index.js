@@ -10,7 +10,7 @@ function Footer() {
                 <img className="Logo" src={Logo} alt="Myflix logo"/>
       </Link>
       <p>
-        Orgulhosamente criado por Belle Paiva durante a
+        Criado por Belle Paiva durante a
         {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura

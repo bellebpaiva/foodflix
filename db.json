@@ -1,0 +1,17 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Profissional",
+            "descricao": "Receitas e dicas de Chefs renomados",
+            "cor": "#DA1616"
+        },
+
+        {
+            "id": 2,
+            "nome": "Seja Doce",
+            "descricao": "Para quem ama confeitaria",
+            "cor": "#DA1616"
+        }
+    ]
+}
